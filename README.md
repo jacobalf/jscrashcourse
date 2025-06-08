@@ -1,0 +1,2 @@
+# jscrashcourse
+Only for learning.
