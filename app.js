@@ -1,8 +1,5 @@
-console.log("UIIAI");
-console.log("Jacob Starts!");
+let userMail = "jacjac@yahoo.com";
+let age = 20;
+let name = "Master";
 
-console.log("Jacob"[0]);
-console.log("Jacob".length);
-
-let string = "ASAP";
-console.log(string[string.length - 1]);
+age = 17 + 1;
